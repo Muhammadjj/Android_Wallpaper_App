@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Wallpaper</string>
+
+    /*Menu text name */
+    <string name="multiple">Multiple</string>
+    <string name="animals">Animals</string>
+    <string name="natural">Natural</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="apply">Apply</string>
+    <string name="jawad_jani">Jawad Jani</string>
+    <string name="beautiful_wallpaper">Beautiful Wallpaper</string>
+</resources>

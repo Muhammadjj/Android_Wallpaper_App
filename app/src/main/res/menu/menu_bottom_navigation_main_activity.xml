@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/multiple_fragment"
+        android:title="@string/multiple"
+        android:icon="@drawable/multipleicon"/>
+
+    <item android:id="@+id/eagle_fragment"
+        android:title="@string/animals"
+        android:icon="@drawable/eaglefragment"/>
+
+    <item android:id="@+id/natural_fragment"
+        android:title="@string/natural"
+        android:icon="@drawable/naturalfragment"/>
+
+
+</menu>
